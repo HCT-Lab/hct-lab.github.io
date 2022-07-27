@@ -1,0 +1,17 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #080808;
+  color: #e8e8e8;
+  font-family: sans-serif;
+}
+
+.Application {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
