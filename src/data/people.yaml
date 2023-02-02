@@ -1,0 +1,41 @@
+Sid Fels:
+  email: ssfels@ece.ubc.ca
+  title: Professor, Director (HCT Lab)
+  image: sid.png
+
+Bryan Gick:
+  email: gick@mail.ubc.ca
+  title: Professor, Director (ISRL Lab)
+  image: bryan.jpg
+
+Najeeb Khan:
+  email: najeeb.khan@ece.ubc.ca
+  title: Adjunct Professor
+  image: najeeb.png
+  projects:
+    - Brain2Speech
+
+Debasish Ray Mohapatra:
+  email: debasishray@ece.ubc.ca
+  title: PhD Student (HCT Lab)
+  image: deb.jpg
+
+Arian Shamei:
+  email: arian.shamei@ubc.ca
+  title: PhD Student (ISRL Lab)
+  image: arian.png
+
+Yadong Liu:
+  email: yadong.liu@ubc.ca
+  title: PhD Student (ISRL Lab)
+  image: yadong.jpg
+
+Eric Easthope:
+  email: eric.easthope@me.com
+  title: M.A.Sc. Student (HCT Lab)
+  image: eric.png
+
+Yuanpei Gao:
+  email: y289gao@uwaterloo.ca
+  title: M.A.Sc. Student (HCT Lab)
+  image: yuanpei.jpg
