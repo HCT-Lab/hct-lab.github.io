@@ -1,0 +1,65 @@
+Sid Fels:
+  email: ssfels@ece.ubc.ca
+  title: Professor, Director
+  image: sid.png
+  alumnus: false
+
+Sahar:
+  email:
+  title: M.A.Sc. Student
+  image: person.png
+  alumnus: false
+
+Jennie:
+  email:
+  title: M.A.Sc. Student
+  image: person.png
+  alumnus: false
+
+Yuanpei Gao:
+  email: y289gao@uwaterloo.ca
+  title: M.A.Sc. Student
+  image: yuanpei.jpg
+  alumnus: false
+
+Ursa:
+  email:
+  title:
+  image: person.png
+  alumnus: false
+
+Hamidreza:
+  email:
+  title: M.A.Sc. Student
+  image: person.png
+  alumnus: false
+
+Debasish Ray Mohapatra:
+  email: debasishray@ece.ubc.ca
+  title: PhD Student
+  image: deb.jpg
+  alumnus: false
+
+Nima:
+  email:
+  title: PhD Student
+  image: person.png
+  alumnus: false
+
+Rowan:
+  email:
+  title:
+  image: person.png
+  alumnus: false
+
+Kaseya Xia:
+  email:
+  title: M.A.Sc. Student
+  image: person.png
+  alumnus: false
+
+Eric Easthope:
+  email: eric.easthope@me.com
+  title: M.A.Sc. Student
+  image: person.png
+  alumnus: false

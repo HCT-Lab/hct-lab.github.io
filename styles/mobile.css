@@ -1,0 +1,21 @@
+@media only screen and (max-width: 746px) {
+  img.logo {
+    margin-bottom: 12px;
+  }
+
+  header {
+    width: 100%;
+    flex-flow: column !important;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .column {
+    align-items: center;
+    text-align: center;
+  }
+
+  .optional {
+    display: none;
+  }
+}

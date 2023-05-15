@@ -1,0 +1,83 @@
+.person-tile {
+  display: flex;
+  align-items: center;
+  width: 350px;
+  margin: 24px 0;
+  margin-right: 24px;
+}
+
+.person-tile .photo {
+  display: flex;
+  min-height: 72px;
+  justify-content: center;
+  align-items: center;
+}
+
+.person-tile .photo img {
+  width: 84px;
+  height: 84px;
+  border-radius: 42px;
+  margin-right: 16px;
+  border: 2px solid #ddd;
+}
+
+.person-tile .info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.person-tile .email {
+  font-size: 0.83em;
+}
+
+.research-tile {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  margin: 24px 0;
+  margin-right: 24px;
+}
+
+.research-tile .photo {
+  display: flex;
+  min-height: 72px;
+  justify-content: center;
+  align-items: center;
+}
+
+.research-tile .photo img {
+  width: 168px;
+  height: 168px;
+  border-radius: 42px;
+  margin-right: 16px;
+  border: 1px solid #ddd;
+}
+
+.research-tile .info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 0.9em;
+  max-width: 300px;
+}
+
+.research-tile .info h3 {
+  font-weight: 600;
+  margin-bottom: 0;
+  color: inherit;
+}
+
+.research-tile .info h4 {
+  font-weight: 400;
+  margin: 0;
+}
+
+.research-tile .info .bold {
+  font-weight: 600;
+  font-size: 1.1em;
+}

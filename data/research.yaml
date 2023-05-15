@@ -1,16 +1,19 @@
 Brain2Speech:
-  subtitle:
+  subtitle: "State-of-the-art brain computer interfaces and 3D biomechanical articulatory speech synthesis"
   description: "We propose to advance the state of the art of brain-computer interfaces BCI by building and evaluating various control strategies that could drive an advanced biomechanical articulatory speech synthesis using neural activation-based models."
+  description2: "The Brain2Speech project seeks to build and validate new methods for advanced speech synthesis and control using neural activation-based models and 3D biomechanical articulators."
   image: b2s.png
   path: brain2speech
   slogan: "Realizing state-of-the-art brain computer interfaces and 3D biomechanical articulatory speech synthesis."
+  archived: false
 
 ViDeX:
-  subtitle: "Teaching and Learning Experiences with Video"
+  subtitle: "Teaching and learning experiences with video"
   description: "ViDeX is a prototype based on our research investigating personalized video experiences for learning which incorporates interface elements for reading, bookmarking and tagging, visual cueing, organizing, rearranging and peer-sourcing (AKA crowdsourcing) video content."
   image: videx.png
   path: videx
   slogan: ""
+  archived: false
 
 MixedRealityPlatforms:
   subtitle: ""
@@ -18,17 +21,20 @@ MixedRealityPlatforms:
   images: ""
   path: mixed-reality
   slogan: ""
+  archived: false
 
 BiomechanicalModelling:
-  subtitle: "Biomechanical Modelling for Biomedical Applications"
+  subtitle: ""
   description: ""
   images: ""
   path: biomechanical-modelling
   slogan: ""
+  archived: false
 
 ArtiSynth:
-  subtitle: "3D Mechanical Modelling System combining Multibody and Finite Element Simulation"
+  subtitle: "A 3D mechanical modelling system combining multi-body and finite element simulations"
   description: ""
   images: ""
   path: artisynth
   slogan: ""
+  archived: false
