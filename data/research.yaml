@@ -2,7 +2,7 @@ Brain2Speech:
   subtitle: "State-of-the-art brain computer interfaces and 3D biomechanical articulatory speech synthesis"
   description: "We propose to advance the state of the art of brain-computer interfaces BCI by building and evaluating various control strategies that could drive an advanced biomechanical articulatory speech synthesis using neural activation-based models."
   description2: "The Brain2Speech project seeks to build and validate new methods for advanced speech synthesis and control using neural activation-based models and 3D biomechanical articulators."
-  image: b2s.png
+  image: brain2speech.png
   path: brain2speech
   slogan: "Realizing state-of-the-art brain computer interfaces and 3D biomechanical articulatory speech synthesis."
   archived: false
@@ -16,17 +16,19 @@ ViDeX:
   archived: false
 
 MixedRealityPlatforms:
+  name: "Mixed Reality Platforms"
   subtitle: ""
   description: ""
-  images: ""
   path: mixed-reality
   slogan: ""
+  image: mixedreality.png
   archived: false
 
 BiomechanicalModelling:
+  name: "Biomechanical Modelling for Biomedical Applications"
   subtitle: ""
   description: ""
-  images: ""
+  image: biomedical.png
   path: biomechanical-modelling
   slogan: ""
   archived: false

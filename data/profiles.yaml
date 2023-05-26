@@ -1,0 +1,879 @@
+- name:
+    salutations: Prof.
+    first: Sid
+    middle: ""
+    last: Fels
+    credentials: ""
+  address:
+    building-name: Kaiser
+    room-number: "4049"
+    street-1: ""
+    street-2: ""
+    city: ""
+    province: ""
+    country: Canada
+    postal: ""
+  phone:
+    option: ""
+    tel-1: 604-
+    tel-2: 822-
+    tel-3: "5338"
+    extension: null
+  email:
+    email: ssfels [at] ece.ubc.ca
+  image:
+    src: "sid.png"
+  website:
+    website: https://hct.ece.ubc.ca
+    site-title: null
+  position:
+    position: Director, HCT Lab
+    project: null
+    organization: null
+    url: null
+  bio:
+    text:
+      "Sid Fels has been in the department of Electrical & Computer Engineering
+      at UBC since 1998. Dr. Fels received his PhD and MSc in computer science at
+      the University of Toronto in 1994 and 1990 respectively and his BASc in electrical
+      engineering at the University of Waterloo in 1988. He was recognized as a Distinguished
+      University Scholar at UBC in 2004. He was a visiting researcher at ATR Media
+      Integration & Communications Research Laboratories in Kyoto, Japan from 1996
+      to 1997. He currently holds the Dolby Professorship and Midnet Professorship
+      in Digital Media.
+
+      Dr. Fels previously worked at Virtual Technologies Inc. in Palo Alto, CA. He
+      is internationally known for his work in human-computer interaction, 3D displays,
+      biomechanical modeling, neural networks, intelligent agents, new interfaces
+      for musical expression and interactive arts. His lab website is at hct.ece.ubc.ca.
+      Dr. Fels was Director of the Media and Graphics Interdisciplinary Centre (MAGIC)
+      at UBC (www.magic.ubc.ca) from 2001-2012.
+
+      Google Scholar Profile"
+    links:
+      - https://hct.ece.ubc.ca/
+      - http://www.magic.ubc.ca/
+      - https://scholar.google.ca/citations?user=bf7ilxMAAAAJ&hl=en&oi=ao
+  research:
+    text:
+      My research interests span a broad range including Human computer interaction,
+      human 3D biomechanical modeling, speech synthesis, medical applications of modeling,
+      computer vision, interactive arts and music.
+    links: []
+  projects:
+    project-title: ""
+    project-description:
+      "Current projects\n\n[loop query=\"category_name=project&tag=active+sidfels\"\
+      ] \n\n[link_with_content]\n [the_excerpt] by [the_author] - Date: [last-updated]\n\
+      \ [/loop]"
+    project-website: ""
+    start-date-month: ""
+    start-date-year: ""
+    end-date-month: ""
+    end-date-year: ""
+    project-status: ""
+  publications:
+    text: ""
+    links:
+      Research Publications: http://research.hct.ece.ubc.ca/?page_id=98
+      Google Scholar: https://scholar.google.ca/citations?user=bf7ilxMAAAAJ&hl=en&oi=ao
+- name:
+    salutations: ""
+    first: Nima
+    middle: ""
+    last: Ashjaee
+    credentials: ""
+  address:
+    building-name: X427 ICICS
+    room-number: ""
+    street-1: ""
+    street-2: ""
+    city: ""
+    province: ""
+    country: ""
+    postal: ""
+  phone:
+    option: null
+    tel-1: null
+    tel-2: null
+    tel-3: null
+    extension: null
+  email:
+    email: nima.ashjaee [at] ubc.ca
+  image:
+    src: "nima.jpg"
+  website:
+    website: null
+    site-title: null
+  position:
+    position: PhD Student
+    project: null
+    organization: null
+    url: null
+  bio:
+    text:
+      Nima Ashjaee has an MSc in mechanical engineering from the University of
+      Saskatchewan. His academic interests include multibody dynamics modeling, finite
+      element modeling, biomechanics, computational mechanics, machine learning, and
+      programming. His personal interests include tennis and hiking!
+    links: []
+  research:
+    text:
+      "Nima's research involves adult spinal deformity, defined as abnormal spine
+      curvature, which is an increasingly prevalent disorder among the aging population.
+
+      Musculoskeletal modeling is a powerful tool that has been used by biomedical
+      researchers to enhance our knowledge of human body kinetics and kinematics.
+      Traditional predictor models have primarily only used radiographic parameters
+      to assess the risk of PJF, with varying rates of success. Given the biomechanical
+      importance of spine curvature and surrounding muscles in spinal deformity, there
+      is an opportunity and a need to improve PJF predictability by utilizing musculoskeletal
+      modeling.
+
+      Nima's research aims to develop a tool to be used in a clinical setting, by
+      surgeons, to modify each patient’s surgical planning based on their individual
+      conditions or needs."
+    links: []
+  projects:
+    project-title: ""
+    project-description:
+      "Current projects\n\n[loop query=\"category_name=project&tag=active+nima55\"\
+      ] \n\n[link_with_content]\n [the_excerpt] by [the_author] - Date: [last-updated]\n\
+      \ [/loop]"
+    project-website: ""
+    start-date-month: ""
+    start-date-year: ""
+    end-date-month: ""
+    end-date-year: ""
+    project-status: ""
+  publications:
+    text: Google Scholar Profile
+    links:
+      - https://scholar.google.com/citations?user=8XQ0NpIAAAAJ
+- name:
+    salutations: ""
+    first: Atabak
+    middle: ""
+    last: Eghbal
+    credentials: ""
+  address:
+    building-name: ICICS - X wing
+    room-number: 427/509
+    street-1: ""
+    street-2: ""
+    city: ""
+    province: ""
+    country: ""
+    postal: ""
+  phone:
+    option: null
+    tel-1: null
+    tel-2: null
+    tel-3: null
+    extension: null
+  email:
+    email: atabak [at] ece.ubc.ca
+  image:
+    src: "atabak.jpg"
+  website:
+    website: www.linkedin.com/in/atabak-eghbal
+    site-title: null
+  position:
+    position: PhD student
+    project: null
+    organization: null
+    url: null
+  bio:
+    text:
+      "Atabak is a Ph.D. student in Electrical and Computer Engineering. He is
+      also a graduate research assistant in the ISTAR research group under the supervision
+      of Dr. Sidney Fels, Dr. Antony Hodgson, and Dr. Eitan Prisman.
+
+      His work involves using optimization and machine learning algorithms in the
+      Jaw reconstruction surgery.  His optimization framework provides the surgical
+      team with the necessary information to make optimal surgical osteotomies for
+      mandibular reconstruction."
+    links:
+      - https://hct.ece.ubc.ca/person/sid-fels/
+      - https://mech.ubc.ca/antony-hodgson/
+      - https://hiphealth.ca/chhm-people/eitan-prisman/
+  research:
+    text:
+      "Atabak's research involves implementing methods to automate preoperative
+      planning of fibular segmentation and placement for mandibular reconstruction
+      with fibular flaps. His work involves proposing a novel planning procedure formulated
+      as a minimization problem of various objective functions that describe the shape
+      variations in the reconstruction plan. The framework will ultimately be adopted
+      as a virtual tool by surgeons during surgery.
+
+      He also uses conditional variational autoencoder (CVAE), to create predictive
+      target shapes of the reconstruction plan by leveraging the existing acceptable
+      reconstructions to evaluate the performance of his optimization framework."
+    links: []
+  projects:
+    project-title: ""
+    project-description:
+      "Current projects\n\n\n    [loop query=\"category_name=project&tag=active&tag=active+ateghbal\"\
+      ]\n\n[the_title]\n      [the_excerpt] by [the_author] - Date: [last-updated]\n\
+      \    \n\n    [/loop]"
+    project-website: ""
+    start-date-month: ""
+    start-date-year: ""
+    end-date-month: ""
+    end-date-year: ""
+    project-status: ""
+  publications:
+    text: "Atabak's Google Scholar Link
+
+      Yang, R., Abdi, A. H., Eghbal, A., Wang, E., Tran, K. L., Yang, D., ... & Fels,
+      S. (2021, February). Snake-based interactive tooth segmentation for 3D mandibular
+      meshes. In Medical Imaging 2021: Image-Guided Procedures, Robotic Interventions,
+      and Modeling (Vol. 11598, p. 115981O). International Society for Optics and
+      Photonics."
+    links:
+      - https://scholar.google.com/citations?user=Newe9KIAAAAJ&hl=en&oi=ao
+- name:
+    salutations: ""
+    first: Yuanpei
+    middle: ""
+    last: Gao
+    credentials: ""
+  address:
+    building-name: ICICS
+    room-number: x509
+    street-1: ""
+    street-2: ""
+    city: ""
+    province: ""
+    country: Canada
+    postal: ""
+  phone:
+    option: null
+    tel-1: null
+    tel-2: null
+    tel-3: null
+    extension: null
+  email:
+    email: y289gao [at] uwaterloo.ca
+  image:
+    src: "yuanpei.jpg"
+  website:
+    website: null
+    site-title: null
+  position:
+    position: MASc Student
+    project: Brain2Speech
+    organization: null
+    url: null
+  bio:
+    text:
+      Yuanpei Gao, received her B.A.Sc degree in mechatronics engineering from
+      University of Waterloo, Canada, in 2021. She was an undergraduate research assistant
+      in Engineering Bionics lab under the supervision of Dr. Ning Jiang from 2019
+      to 2021. She is currently pursuing a M.A.Sc degree in electrical and computer
+      engineering in University of British Columbia since 2021. Now, she is a graduate
+      student supervised by Dr. Sid Fels.
+    links: []
+  research:
+    text:
+      Yuanpei is broadly interested in brain-computer interfaces, bio-signal analysis,
+      computer vision, and other machine learning fields.
+    links: []
+  projects:
+    project-title: Brain2Speech - Inner Muscle Representation of Speech
+    project-description:
+      We want to find the inner muscle representation of human
+      speech, since we don't know exactly how the different organs, or more specifically,
+      muscles in the articulatory area, map to acoustic elements. Currently, we are
+      using MRI videos and audios from USC-TIMIT dataset as out input, and trying
+      to train a neural network to accomplish the task. One of the main challenges
+      is to apply the physical constraints onto our neural network model.
+    project-website: https://hct.ece.ubc.ca/brain2speech/
+    start-date-month: ""
+    start-date-year: ""
+    end-date-month: ""
+    end-date-year: ""
+    project-status: Current
+  publications:
+    text: Google Scholar
+    links:
+      - https://scholar.google.ca/citations?user=PJKV8Z8AAAAJ&hl=en&oi=ao
+- name:
+    salutations: ""
+    first: Hamidreza
+    middle: ""
+    last: Aftabi
+    credentials: ""
+  address:
+    building-name: ICICS/CS
+    room-number: X427
+    street-1: ""
+    street-2: ""
+    city: ""
+    province: ""
+    country: ""
+    postal: ""
+  phone:
+    option: null
+    tel-1: null
+    tel-2: null
+    tel-3: null
+    extension: null
+  email:
+    email: aftabi [at] student.ubc.ca
+  image:
+    src: "hamidreza.jpg"
+  website:
+    website: https://www.linkedin.com/in/hamidreza-aftabi/
+    site-title: null
+  position:
+    position: PhD Student
+    project: null
+    organization: null
+    url: null
+  bio:
+    text:
+      Hamidreza is a Ph.D. student at HCT Lab and ISTAR Group. He works under
+      the supervision of Prof. Sidney Fels, Prof. Antony Hodgson, and Dr. Eitan Prisman.
+    links: []
+  research:
+    text: "Biomechanical Modeling
+
+      Medical Imaging
+
+      Machine Learning
+
+      Surgical Simulations
+
+      Robotics"
+    links: []
+  projects:
+    project-title: ""
+    project-description:
+      "Current projects\n\n[loop query=\"category_name=project&tag=active&tag=active+ateghbal\"\
+      ] \n\n[the_title]\n [the_excerpt] by [the_author] - Date: [last-updated]\n [/loop]"
+    project-website: ""
+    start-date-month: ""
+    start-date-year: ""
+    end-date-month: ""
+    end-date-year: ""
+    project-status: ""
+  publications:
+    text: Google Scholar Profile
+    links:
+      - https://scholar.google.com/citations?user=NYbC9NYAAAAJ&hl=en
+- name:
+    salutations: ""
+    first: Eric
+    middle: ""
+    last: Easthope
+    credentials: ""
+  address:
+    building-name: null
+    room-number: null
+    street-1: null
+    street-2: null
+    city: null
+    province: null
+    country: null
+    postal: null
+  phone:
+    option: null
+    tel-1: null
+    tel-2: null
+    tel-3: null
+    extension: null
+  email:
+    email: eric.easthope [at] me.com
+  image:
+    src: "eric.png"
+  website:
+    website: www.ericeasthope.me
+    site-title: null
+  position:
+    position: MASc Student
+    project: Brain2Speech
+    organization: null
+    url: null
+  bio:
+    text: ""
+    links: []
+  research:
+    text: ""
+    links: []
+  projects:
+    project-title: ""
+    project-description:
+      "Current projects\n\n[loop query=\"category_name=project&tag=active&tag=ericdani\"\
+      ] \n\n[the_title]\n [the_excerpt]\n [/loop]"
+    project-website: ""
+    start-date-month: ""
+    start-date-year: ""
+    end-date-month: ""
+    end-date-year: ""
+    project-status: ""
+  publications:
+    text: ""
+    links: []
+- name:
+    salutations: ""
+    first: Jennie
+    middle: ""
+    last: Chen
+    credentials: ""
+  address:
+    building-name: ICICS/CS
+    room-number: x427
+    street-1: ""
+    street-2: ""
+    city: ""
+    province: ""
+    country: ""
+    postal: ""
+  phone:
+    option: null
+    tel-1: null
+    tel-2: null
+    tel-3: null
+    extension: null
+  email:
+    email: jchn [at] ece.ubc.ca
+  image:
+    src: "jennie.jpg"
+  website:
+    website: null
+    site-title: null
+  position:
+    position: MASc Student
+    project: Brain2Speech
+    organization: null
+    url: null
+  bio:
+    text:
+      Jennie is currently a MASc. student at the Human Communication Technologies
+      lab at the University of British Columbia under the supervision of Dr. Sidney
+      Fels. She received her B.Eng in Electrical Engineering at McGill University
+      in 2021. Outside of academia, her interests are in making music, art, and useless
+      robots.
+    links: []
+  research:
+    text: ""
+    links: []
+  projects:
+    project-title: ""
+    project-description: ""
+    project-website: https://hct.ece.ubc.ca/brain2speech/
+    start-date-month: ""
+    start-date-year: ""
+    end-date-month: ""
+    end-date-year: ""
+    project-status: ""
+  publications:
+    text: ""
+    links: []
+- name:
+    salutations: ""
+    first: Sahar
+    middle: ""
+    last: Mavali
+    credentials: ""
+  address:
+    building-name: ICICS
+    room-number: X509
+    street-1: ""
+    street-2: ""
+    city: ""
+    province: ""
+    country: ""
+    postal: ""
+  phone:
+    option: null
+    tel-1: null
+    tel-2: null
+    tel-3: null
+    extension: null
+  email:
+    email: smavali [at] student.ubc.ca
+  image:
+    src: "sahar.jpg"
+  website:
+    website: null
+    site-title: null
+  position:
+    position: MASc Student
+    project: ViDeX
+    organization: null
+    url: null
+  bio:
+    text: "Sahar Mavali is a M.A.Sc. student at the Human Communication Technologies lab at the University of British Columbia under the supervision of Dr. Sidney Fels. She received her B.Sc. at the Sharif University of Technology. Her research explores students' multitasking behavior when using educational video interfaces."
+    links:
+      Google Scholar: https://scholar.google.ca/citations?hl=en&view_op=list_works&gmla=AJsN-F7qn5PwKjAf5nvuPFn-vwLFAMnSMVzJG8Qtlu4n6MhZYp6FMfV10jL3cX0OrGYrIIqnrxTFMQFVuCS2PPslkggVYFQFwJD1pEUl00nB8gzTiiPjNpc&user=1U17h50AAAAJ
+      LinkedIn: https://www.linkedin.com/in/sahar-mavali-9132a3113/
+  research:
+    text:
+      In her research, she investigates students' multitasking behavior and challenges
+      and explores ways to facilitate positive multitasking by augmenting educational
+      video interfaces.
+    links: []
+  projects:
+    project-title: ""
+    project-description: ""
+    project-website: ""
+    start-date-month: ""
+    start-date-year: ""
+    end-date-month: ""
+    end-date-year: ""
+    project-status: Current
+  publications:
+    text: ""
+    links: []
+- name:
+    salutations: ""
+    first: Ursa
+    middle: ""
+    last: Maity
+    credentials: ""
+  address:
+    building-name: ICICS
+    room-number: X427
+    street-1: ""
+    street-2: ""
+    city: ""
+    province: ""
+    country: ""
+    postal: ""
+  phone:
+    option: "mobile:"
+    tel-1: 778-
+    tel-2: 322-
+    tel-3: "5597"
+    extension: null
+  email:
+    email: ursa.maity [at] ubc.ca
+  image:
+    src: "ursa.jpg"
+  website:
+    website: null
+    site-title: null
+  position:
+    position: MASc Student
+    project: null
+    organization: null
+    url: null
+  bio:
+    text:
+      "Ursa Maity received her Bachelor of Technology and Master of Technology
+      degrees at the Indian Institute of Engineering Science and Technology in Electrical
+      Engineering specializing in Control Systems and Instrumentation. She did her
+      Master's thesis on the Simulation of Cardiac Action Potential. She also did
+      a summer project on developing Thin Solar Films using Zinc and Magnesium oxides
+      at the CSIR- Central Glass and Ceramic Research Institute, Kolkata
+
+      Ursa is currently working on the 3D Biomechanical Modelling of a multi-subject
+      atlas of the human tongue. The project also includes running inverse simulations
+      to predict activation values of the tongue muscles based on different speech
+      tasks.
+
+      Google Scholar, LinkedIn
+
+      Her interests outside of research include painting, food blogging, reading books,
+      hiking and singing."
+    links:
+      - https://scholar.google.com/citations?user=vbK_yswAAAAJ&hl=en
+      - https://www.linkedin.com/in/ursamaity/
+  research:
+    text:
+      Ursa is currently doing research primarily focused on biomechanical simulation
+      and finite element modeling. She is also interested in machine learning for
+      predicting muscle activations and solving inverse problems.
+    links: []
+  projects:
+    project-title: ""
+    project-description: Tongue Atlas Videos
+    project-website: ""
+    start-date-month: ""
+    start-date-year: ""
+    end-date-month: ""
+    end-date-year: ""
+    project-status: Planning
+  publications:
+    text:
+      "1. Mavali, S., Lu, S., & Maity, U. (2021). Peppy Pole: An Anthropomorphic
+      and Interactive Hiking Companion. (CPEN 541 Project) PDF"
+    links:
+      - http://courses.ece.ubc.ca/518/previous/hit2020W/papers/group5_501224_14422712_ACM_Conference_Paper_Sahar_Shanny_Ursa.pdf
+- name:
+    salutations: ""
+    first: Kaseya
+    middle: ""
+    last: Xia
+    credentials: ""
+  address:
+    building-name: ""
+    room-number: x509
+    street-1: ""
+    street-2: ""
+    city: ""
+    province: ""
+    country: ""
+    postal: ""
+  phone:
+    option: null
+    tel-1: null
+    tel-2: null
+    tel-3: null
+    extension: null
+  email:
+    email: zxia [at] ece.ubc.ca
+  image:
+    src: "kaseya.jpg"
+  website:
+    website: null
+    site-title: null
+  position:
+    position: MASc Student
+    project: Mixed Reality
+    organization: null
+    url: null
+  bio:
+    text: ""
+    links: []
+  research:
+    text: ""
+    links: []
+  projects:
+    project-title: null
+    project-description: null
+    project-website: null
+    start-date-month: null
+    start-date-year: null
+    end-date-month: null
+    end-date-year: null
+    project-status: null
+  publications:
+    text: ""
+    links: []
+- name:
+    salutations: ""
+    first: Beibei
+    middle: ""
+    last: Xiong
+    credentials: ""
+  address:
+    building-name: ICICS
+    room-number: X509
+    street-1: ""
+    street-2: ""
+    city: ""
+    province: ""
+    country: Canada
+    postal: ""
+  phone:
+    option: "mobile:"
+    tel-1: 778-
+    tel-2: 321-
+    tel-3: "3505"
+    extension: null
+  email:
+    email: bear233 [at] student.ubc.ca
+  image:
+    src: "beibei.jpg"
+  website:
+    website: null
+    site-title: null
+  position:
+    position: MASc Student
+    organization: null
+    url: null
+  bio:
+    text: ""
+    links: []
+  research:
+    text: ""
+    links: []
+  projects:
+    project-title: null
+    project-description: null
+    project-website: null
+    start-date-month: null
+    start-date-year: null
+    end-date-month: null
+    end-date-year: null
+    project-status: null
+  publications:
+    text: ""
+    links: []
+- name:
+    salutations: ""
+    first: Shanny
+    middle: ""
+    last: Lu
+    credentials: ""
+  address:
+    building-name: null
+    room-number: null
+    street-1: null
+    street-2: null
+    city: null
+    province: null
+    country: null
+    postal: null
+  phone:
+    option: null
+    tel-1: null
+    tel-2: null
+    tel-3: null
+    extension: null
+  email:
+    email: lushanny [at] student.ubc.ca
+  image:
+    src: "shanny.jpeg"
+  website:
+    website: null
+    site-title: null
+  position:
+    position: MASc Student
+    organization: null
+    url: null
+  bio:
+    text: ""
+    links: []
+  research:
+    text: ""
+    links: []
+  projects:
+    project-title: null
+    project-description: null
+    project-website: null
+    start-date-month: null
+    start-date-year: null
+    end-date-month: null
+    end-date-year: null
+    project-status: null
+  publications:
+    text: ""
+    links: []
+- name:
+    salutations: ""
+    first: Debasish Ray
+    middle: ""
+    last: Mohapatra
+    credentials: ""
+  address:
+    building-name: ICICS XWing, 2366 Main Mall Room
+    room-number: x427
+    street-1: ""
+    street-2: ""
+    city: ""
+    province: ""
+    country: Canada
+    postal: ""
+  phone:
+    option: null
+    tel-1: null
+    tel-2: null
+    tel-3: null
+    extension: null
+  email:
+    email: debasishray [at] ece.ubc.ca
+  image:
+    src: "deb.jpg"
+  website:
+    website: https://debasishray19.github.io/
+    site-title: null
+  position:
+    position: PhD Student
+    project: Brain2Speech
+    organization: null
+    url: null
+  bio:
+    text: "Ph.D. student (2021-present)
+
+      I am a Ph.D. student in the Electrical and Computer Engineering Department at
+      The University of British Columbia, advised by Sidney Fels and Victor Zappi.
+      My research interests lie in articulatory speech synthesis and neural control
+      of speech synthesizers for speech production tasks. Currently, I am modelling
+      a physics-based human vocal tract that could help in designing real-time articulatory
+      speech synthesis and understanding the human speech production mechanism.
+
+      Outside of research, I love photography."
+    links:
+      - https://www.ubc.ca/
+      - https://www.ece.ubc.ca/faculty/sid-fels
+      - https://toomuchidle.com/
+  research:
+    text: Biomechanical simulation, Articulatory speech synthesis
+    links: []
+  projects:
+    project-title: ""
+    project-description: ""
+    project-website: ""
+    start-date-month: ""
+    start-date-year: ""
+    end-date-month: ""
+    end-date-year: ""
+    project-status: ""
+  publications:
+    text: "Please check Google Scholar for a complete list of publications.
+
+
+      An Extended Two-Dimensional Vocal Tract Model for Fast Acoustic Simulation of
+      Single-Axis Symmetric Three-Dimensional Tubes (Interspeech, 2019).
+
+      A comparative study of two-dimensional vocal tract acoustic modelling based
+      on Finite-Difference Time-Domain methods. (ISSP, 2020).
+
+      Vocal tract area function extraction using ultrasound for articulatory speech
+      synthesis (SSW, 2021)."
+    links:
+      - https://scholar.google.com/citations?user=HzIWE5kAAAAJ
+- name:
+    salutations: ""
+    first: Rowan
+    middle: ""
+    last: Wu
+    credentials: ""
+  address:
+    building-name: null
+    room-number: null
+    street-1: null
+    street-2: null
+    city: null
+    province: null
+    country: null
+    postal: null
+  phone:
+    option: null
+    tel-1: null
+    tel-2: null
+    tel-3: null
+    extension: null
+  email:
+    email: ""
+  image:
+    src: "rowan.jpg"
+  website:
+    website: null
+    site-title: null
+  position:
+    position: MASc Student
+    organization: null
+    url: null
+  bio:
+    text: ""
+    links: []
+  research:
+    text: ""
+    links: []
+  projects:
+    project-title: null
+    project-description: null
+    project-website: null
+    start-date-month: null
+    start-date-year: null
+    end-date-month: null
+    end-date-year: null
+    project-status: null
+  publications:
+    text: ""
+    links: []
