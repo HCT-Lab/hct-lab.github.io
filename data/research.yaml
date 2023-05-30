@@ -36,7 +36,7 @@ BiomechanicalModelling:
 ArtiSynth:
   subtitle: "A 3D mechanical modelling system combining multi-body and finite element simulations"
   description: ""
-  images: ""
+  image: artisynth.png
   path: artisynth
   slogan: ""
   archived: false

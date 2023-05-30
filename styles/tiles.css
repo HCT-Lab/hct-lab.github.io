@@ -46,14 +46,17 @@
   min-height: 72px;
   justify-content: center;
   align-items: center;
+  width: 168px;
+  height: 168px;
+  border: 1px solid #ddd;
+  border-radius: 42px;
+  overflow: hidden;
 }
 
 .research-tile .photo img {
-  width: 168px;
-  height: 168px;
-  border-radius: 42px;
-  margin-right: 16px;
-  border: 1px solid #ddd;
+  width: 152px;
+  margin: auto 0;
+  border-radius: 21px;
 }
 
 .research-tile .info {
@@ -63,7 +66,7 @@
   justify-content: center;
   text-align: center;
   font-size: 0.9em;
-  max-width: 300px;
+  max-width: 252px;
 }
 
 .research-tile .info h3 {
