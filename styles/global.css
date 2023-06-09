@@ -39,8 +39,16 @@ img.logo {
 .wrapper {
   display: flex;
   flex-flow: row wrap;
-  justify-content: flex-start;
+  justify-content: space-between;
 }
+
+/*
+.wrapper::after {
+  content: "";
+  flex: auto;
+  max-width: 320px;
+}
+*/
 
 .section {
   font-weight: 600;

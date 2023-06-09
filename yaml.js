@@ -17,7 +17,9 @@
               <strong>${value.name.salutations} ${value.name.first} ${
           value.name.last
         }</strong>
-              <div style="white-space: nowrap">${value.position.position}${
+              <div class="project" style="white-space: nowrap">${
+                value.position.position
+              }${
           value.position.project ? ", " + value.position.project : ""
         }</div>
               <div class="email">

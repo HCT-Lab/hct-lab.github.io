@@ -1,9 +1,10 @@
 .person-tile {
   display: flex;
   align-items: center;
-  width: 350px;
+  width: 320px;
+  max-width: 320px;
   margin: 24px 0;
-  margin-right: 24px;
+  /* margin-right: 24px; */
 }
 
 .person-tile .photo {
@@ -27,6 +28,10 @@
   justify-content: center;
 }
 
+.person-tile .project {
+  font-size: 0.83em;
+}
+
 .person-tile .email {
   font-size: 0.83em;
 }
@@ -36,7 +41,8 @@
   flex-flow: column;
   align-items: center;
   justify-content: center;
-  width: 300px;
+  width: 320px;
+  max-width: 320px;
   margin: 24px 0;
   margin-right: 24px;
 }
