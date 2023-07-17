@@ -3,8 +3,8 @@
   align-items: center;
   width: 320px;
   max-width: 320px;
-  margin: 24px 0;
-  /* margin-right: 24px; */
+  margin: 36px 0;
+  margin-top: 0;
 }
 
 .person-tile .photo {
@@ -44,7 +44,13 @@
   width: 320px;
   max-width: 320px;
   margin: 24px 0;
-  margin-right: 24px;
+  margin-top: 0;
+}
+
+.research-tile {
+  text-decoration: none;
+  color: inherit;
+  min-height: 264px !important;
 }
 
 .research-tile .photo {

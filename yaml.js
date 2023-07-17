@@ -41,18 +41,19 @@
       Object.entries(jsyaml.load(data)).map(([key, value]) => {
         // console.log(key, value);
         if (!value.archived) {
-          const el = document.createElement("div");
+          const el = document.createElement("a");
           el.classList.add("research-tile");
+          el.href = value.url;
           el.innerHTML = `
-            <div class="photo">
-              <img alt=${key} src=${"images/" + value.image} />
-            </div>
-            <div class="info">
-              <h3>${value.name ? value.name : key ? key : ""}</h3>
-              <h4 class=${key === "null" ? "bold" : ""}>
-                ${value.subtitle ? value.subtitle : ""}
-              </h4>
-            </div>
+              <div class="photo">
+                <img alt=${key} src=${"images/" + value.image} />
+              </div>
+              <div class="info">
+                <h3>${value.name ? value.name : key ? key : ""}</h3>
+                <h4 class=${key === "null" ? "bold" : ""}>
+                  ${value.subtitle ? value.subtitle : ""}
+                </h4>
+              </div>
           `;
           research.appendChild(el);
         }

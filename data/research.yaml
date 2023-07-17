@@ -6,6 +6,7 @@ Brain2Speech:
   path: brain2speech
   slogan: "Realizing state-of-the-art brain computer interfaces and 3D biomechanical articulatory speech synthesis."
   archived: false
+  url: https://hct.ece.ubc.ca/brain2speech/
 
 ViDeX:
   subtitle: "Teaching and learning experiences with video"
@@ -14,6 +15,7 @@ ViDeX:
   path: videx
   slogan: ""
   archived: false
+  url: https://hct.ece.ubc.ca/videx-teaching-and-learning-experiences-with-video/
 
 MixedRealityPlatforms:
   name: "Mixed Reality Platforms"
@@ -23,6 +25,7 @@ MixedRealityPlatforms:
   slogan: ""
   image: mixedreality.png
   archived: false
+  url: https://hct.ece.ubc.ca/3d-teleview/
 
 BiomechanicalModelling:
   name: "Biomechanical Modelling for Biomedical Applications"
@@ -32,6 +35,7 @@ BiomechanicalModelling:
   path: biomechanical-modelling
   slogan: ""
   archived: false
+  url: https://hct.ece.ubc.ca/bmodeling/
 
 ArtiSynth:
   subtitle: "A 3D mechanical modelling system combining multi-body and finite element simulations"
@@ -40,3 +44,4 @@ ArtiSynth:
   path: artisynth
   slogan: ""
   archived: false
+  url: https://hct.ece.ubc.ca/proj-4/
